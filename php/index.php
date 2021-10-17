@@ -20,7 +20,7 @@
     <p>Utgå ifrån filen som heter g4.php. Beroende på vilken knapp man trycker på kommer $tal1 och $tal2 innehålla olika tal som kan plussas ihop. Skapa en funktion som tar emot två tal och skriver ut ”Resultatet blev: XX” på sidan. Glöm inte att anropa funktionen.</p>
 
     <h2>G5. Berätta en saga</h2>
-    <p>Utgå ifrån filen som geter g5.php. Där finns ett formulär i vilket man kan fylla i ett djur, ett namn, en färg och en hobby. När man klickar på knappen ska en liten saga skrivas ut och allt man fyllt i ska finnas med, t.ex:<br /><br />
+    <p>Utgå ifrån filen som heter g5.php. Där finns ett formulär i vilket man kan fylla i ett djur, ett namn, en färg och en hobby. När man klickar på knappen ska en liten saga skrivas ut och allt man fyllt i ska finnas med, t.ex:<br /><br />
         ”Det var en gång en [djur] som hette [namn]. [namn] älskade att [hobby] och hade favoritfärgen [färg]”</p>
 
     <h2>VG1. Plusräknare v2</h2>
