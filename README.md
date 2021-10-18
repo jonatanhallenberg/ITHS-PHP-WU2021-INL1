@@ -4,7 +4,7 @@ Komma igång
 
 1. Klona Git-repot https://github.com/jonatanhallenberg/ITHS-PHP-WU2021-INL1 till din dator:
 
-git clone https://github.com/jonatanhallenberg/ITHS-PHP-WU2021-INL1
+<pre><code>git clone https://github.com/jonatanhallenberg/ITHS-PHP-WU2021-INL1</code></pre>
 
 2.	Öppna den klonade mappen i VSCode
 3.	Öppna terminalen i VSCode
