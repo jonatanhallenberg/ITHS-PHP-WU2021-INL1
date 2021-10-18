@@ -10,7 +10,7 @@ Komma igång
 3.	Öppna terminalen i VSCode
 4.	Starta docker-compose genom att skriva följande i terminalen
 
-docker-compose up -d
+<pre><code>docker-compose up -d</code></pre>
 
 5.	Surfa till http://localhost:8081/index.php
 
